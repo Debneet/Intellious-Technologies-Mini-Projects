@@ -1,6 +1,6 @@
-# Projects: Hosting a Static Website on AWS S3 & Using Amazon Macie to Identify Sensitive Data in S3
+# Mini Projects: Hosting a Static Website on AWS S3 & Using Amazon Macie to Identify Sensitive Data in S3
 
-## Project 1: Hosting a Static Website on AWS S3
+## Mini Project 1: Hosting a Static Website on AWS S3
 
 ### Step-by-Step Instructions
 
@@ -50,7 +50,7 @@
 ### Summary
 You've now hosted a static website on AWS S3. Your website files are uploaded to the S3 bucket, permissions are set to allow public access, and static website hosting is enabled to serve your files as a website.
 
-## Project 2: Using Amazon Macie to Identify Sensitive Data in S3
+## Mini Project 2: Using Amazon Macie to Identify Sensitive Data in S3
 
 ### Step-by-Step Instructions
 
